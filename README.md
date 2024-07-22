@@ -1,4 +1,4 @@
 #### Description
 
 
-HTC_Seminar
+HTC Seminar
