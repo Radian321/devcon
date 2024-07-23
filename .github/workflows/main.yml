@@ -20,4 +20,4 @@ jobs:
       - name: RUN DOCKER
         run: docker run -d -p 3000:80 devops-seminar
       - name: List docker containers
-        run: dokcer ps
+        run: docker ps
